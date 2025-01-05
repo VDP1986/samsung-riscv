@@ -1,4 +1,4 @@
-SAmsung RISC-V Talent Develpoment Program
+Samsung RISC-V Talent Develpoment Program
 Basic Details
 Name: Praveen V.D
 College: Srinivas Institute of Technology, Valachil, Mangaluru
